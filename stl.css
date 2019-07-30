@@ -1,9 +1,9 @@
 div.upper
 {
+    position: absolute;
     width: 100%;
     height: 20%;
     background-color: blueviolet;
-    padding: 10%;
 }
 
 p.header
